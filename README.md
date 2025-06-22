@@ -4,6 +4,8 @@ This repository includes two simple Python programs
 
 #Task1: The program prompts the user to enter a number
 2. It checks IF the number is divisible by 2 or = 0 it prints that entered number is EVEN
+
+
 3. Else it is ODD
 
 ![image](https://github.com/user-attachments/assets/5ba9f9d2-ee54-49c8-803b-40fa13d6a316)
